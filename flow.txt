@@ -1,0 +1,5 @@
+Video link: https://www.youtube.com/watch?v=UU1WVnMk4E8&ab_channel=freeCodeCamp.org
+
+install libraries - numpy matplotlib ipykernel torch(copy command from pytorch website)
+create cuda kernel: python -m ipykernel install --user --name=cuda --display-name "cuda-gpt"
+Open jupyter notebook biagram.ipynb
