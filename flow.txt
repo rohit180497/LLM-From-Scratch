@@ -3,3 +3,4 @@ Video link: https://www.youtube.com/watch?v=UU1WVnMk4E8&ab_channel=freeCodeCamp.
 install libraries - numpy matplotlib ipykernel torch(copy command from pytorch website)
 create cuda kernel: python -m ipykernel install --user --name=cuda --display-name "cuda-gpt"
 Open jupyter notebook biagram.ipynb
+Make sure to watch again Transformer architect explained by him
